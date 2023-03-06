@@ -1,9 +1,9 @@
 # Conformity Assessment Scheme for Digital Credentials, Digital Trust Services, and Digital Wallets
 
-![GitHub issues](https://img.shields.io/github/issues/CIOSC/CAS-Digital-Credentials)
-![GitHub Discussions](https://img.shields.io/github/discussions/CIOSC/CAS-Digital-Credentials)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/CIOSC/CAS-Digital-Credentials)
-![GitHub contributors](https://img.shields.io/github/contributors/CIOSC/CAS-Digital-Credentials)
+![GitHub issues](https://img.shields.io/github/issues/dgc-cgn/CAS-Digital-Credentials)
+![GitHub Discussions](https://img.shields.io/github/discussions/dgc-cgn/CAS-Digital-Credentials)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dgc-cgn/CAS-Digital-Credentials)
+![GitHub contributors](https://img.shields.io/github/contributors/dgc-cgn/CAS-Digital-Credentials)
 
 Quick links to: [Objects of Conformity](./scheme/objects/objca-table.md), [Draft Specification](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
 
