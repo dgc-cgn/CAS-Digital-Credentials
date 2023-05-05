@@ -29,11 +29,11 @@ This repository is intended to provide the context of a prototype conformity ass
 * To develop a publicly available Github repository, consisting of conformity assessment scheme elements that can be used to define conformity assessment criteria to support conformity assessment programs.
 * Content is developed on a continuous basis by contributing technical experts. Draft publications will be made available on a periodic basis for peer review and publication.
 
-## Work in Progress
+## Work Completed to Date
 
-The experts are now defining the **objects of conformity** for inclusion in a technical specification. The table of objects being developed can be found [here](./scheme/objects/objca-table.md)
+The expert drafting team has defining the **objects of conformity** for inclusion in a technical specification. 
 
-The [draft versions of TS-115](https://ciostrategycouncil.com/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/) are now available for public review.
+The [Final Version of TS-115](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/) has now been published
 
 ---
 Interested in contributing? Here is a great resource on [Open Source](https://opensource.guide/)
