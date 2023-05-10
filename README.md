@@ -5,7 +5,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dgc-cgn/CAS-Digital-Credentials)
 ![GitHub contributors](https://img.shields.io/github/contributors/dgc-cgn/CAS-Digital-Credentials)
 
-Quick links to: [Objects of Conformity](./scheme/objects/objca-table.md), [Final Specification](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)
+|[Final Specification](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|[Assessment Worksheet](./scheme/ts-115-conformity-assessement-workbook.xlsx)|
 
 ## Overview of this Repository
 
