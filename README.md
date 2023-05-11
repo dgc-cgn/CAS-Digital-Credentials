@@ -5,7 +5,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dgc-cgn/CAS-Digital-Credentials)
 ![GitHub contributors](https://img.shields.io/github/contributors/dgc-cgn/CAS-Digital-Credentials)
 
-|[SCC Digital Credentials Initiative](https://www.scc.ca/en/flagship/digital-credentials)|[Final Specification](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|[Assessment Workbook](./scheme/workbook.md)|
+|[SCC Digital Credentials Initiative](https://www.scc.ca/en/flagship/digital-credentials)|[TS-115 Published Version](https://dgc-cgn.org/standards/find-a-standard/standards-in-digital-credentials/digital-credentials/)|[Assessment Workbook](./scheme/workbook.md)|
 
 ## Overview of this Repository
 
